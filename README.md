@@ -2,8 +2,7 @@
 
 **Student:** Mumina Mukazhan
 **Group:** SE-2530
-**Live site:** 
-**Repository:** 
+**Live site:** https://muminamukazhan.github.io/web4assignment/
 
 ## Description
 
